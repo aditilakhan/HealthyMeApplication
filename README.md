@@ -1,1 +1,1 @@
-A HealthyMe Application is a Health Reminder desktop Application
+HealthyMe is a user-friendly desktop application that reminds you of appointments, suggests nearby clinics, and ensures you take your medicine on time with email reminders and interesting health facts
